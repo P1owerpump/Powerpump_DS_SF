@@ -44,4 +44,4 @@ if __name__ == '__main__':
 # run
     score_game(random_predict)
 #print(f'Количество попыток: {random_predict(10)}')
-#commit2
+#commit2asd
