@@ -15,6 +15,7 @@ def game_core_v3(number: int = 1) -> int:
     predict = 50 # Предсказываемое число
     mid_number = 50 # Число с помощью которого будем коректировать
     
+    # Угадывается число с помощью бинарного поиска
     while number != predict:
         count += 1
         
